@@ -1,0 +1,14 @@
+{
+  "name": "@hikaruna/exec-on-dom",
+  "version": "0.0.1",
+  "description": "指定したhtmlファイルを開いた状態のdom環境下で任意のscriptを実行するコマンドです.",
+  "bin": {
+    "exec-on-dom": "index.js"
+  },
+  "author": "hikaruna",
+  "license": "MIT",
+  "dependencies": {
+    "argv": "0.0.2",
+    "jsdom": "^13.0.0"
+  }
+}
