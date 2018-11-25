@@ -5,7 +5,7 @@ reqlに対応しています.
 ## Installation
 
 ```
-$ npm install -g hikaruna/exec-on-dom#master
+$ npm install -g @hikaruna/exec-on-dom
 ```
 
 
